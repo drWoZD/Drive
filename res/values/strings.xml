@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drive</string>
+    <string name="ip_string">IP:</string>
+    <string name="port_string">Port:</string>
+    <string name="connect">Connect</string>
+</resources>
